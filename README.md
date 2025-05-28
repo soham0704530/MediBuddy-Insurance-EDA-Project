@@ -16,7 +16,7 @@ In this phase, I explored:
 - Python
 - pandas, numpy
 - seaborn, matplotlib
-- Jupyter Notebook / Google Colab
+-  Google Colab
 
 
 ## 📎 Files in the Repository:
